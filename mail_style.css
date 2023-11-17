@@ -1,0 +1,121 @@
+body{
+    margin: 0;
+    height: 430vh;
+    background-color: pink;
+    font-family: Rubik, serif;
+}
+header{
+    height: 12.5vh;
+    width: 100%;
+    background-color: white;
+}
+.logoWr{
+    padding: 25px 0 15px 135px;
+}
+nav{
+    width: 50%;
+    display: flex;
+}
+.navbar{
+    margin-right: 10%;
+}
+a{
+    color: #99A2AA;
+    text-decoration: none;
+}
+.paddingLeft135{
+    padding-left: 135px;
+}
+.subscribeWR{
+    height: 30vh;
+    background: #FEC524;
+    padding-top: 54px;
+
+}
+.subscribe{
+    font-size: 44px;
+    width: 20vw;
+    color: white;
+
+}
+.winPrize{
+    margin-top: 34px;
+    font-family: Open Sans, serif;
+}
+input{
+    font-family: Rubik, serif;
+    color: #99A2AA;
+    margin-top: 20px;
+    width: 570px;
+    height: 45px;
+    border-radius: 10px;
+    border: none;
+    padding-left: 30px;
+}
+.servicesWr{
+    height: 75vh;
+    background-color: #F8F8F8;;
+}
+.buttonWr{
+    display: flex;
+    justify-content: space-between;
+    height: 50px;
+    width: 75%;
+    position: relative;
+    top: -23px;
+    left: 135px;
+}
+button{
+    width: 270px;
+    height: 50px;
+    border-radius: 10px;
+    background: #FFF;
+    box-shadow: 0 3px 35px 0 rgba(95, 98, 102, 0.17);
+    color: #99A2AA;
+    border: none;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.svg{
+    margin-right: 20px;
+}
+.services{
+    height: 100%;
+    padding-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+.postServ{
+    width: 25%;
+    color: #0E2F4B;
+
+}
+.moreInfo{
+    color: #0E2F4B;
+}
+.ps{
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+}
+.someText{
+    line-height: 30px;
+
+}
+.delivery{
+    width: 35%;
+    margin-bottom: 75px;
+
+}
+.size24{
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+    margin-top: 48px;
+    margin-bottom: 0;
+}
+.inet{
+    width: 80%;
+}
